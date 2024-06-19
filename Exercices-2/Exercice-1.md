@@ -1,0 +1,1 @@
+INSERT INTO `stagiaire` (`id`, `nom`, `prenom`, `date_naissance`, `email`) VALUES ('6', 'Mercedes', 'Benz', '02-02-2002', 'mercedes.benz@gmail.com');
